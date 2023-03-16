@@ -23,7 +23,6 @@ public class CountProviderWithCache implements CharacterCountProvider {
             symbolToCount = characterCountProvider.countCharacters(text);
             cacheProvider.put(text, symbolToCount);
         }
-
         return symbolToCount;
     }
 }
