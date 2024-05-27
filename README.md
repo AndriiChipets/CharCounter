@@ -6,7 +6,7 @@ Since the counting operation can be time-consuming, the method should cache the 
 
 Used collections and maps.
 
-![image](https://github.com/AndriiChipets/CollectionFramework/assets/137887124/eb816f56-6be8-493d-98c0-8c84e3e751db)
-![image](https://github.com/AndriiChipets/CollectionFramework/assets/137887124/97da1002-5abf-4e1c-8acf-03c50946a75e)
-![image](https://github.com/AndriiChipets/CollectionFramework/assets/137887124/4afdbe42-7eb2-409e-9bd7-7508eea77951)
-![image](https://github.com/AndriiChipets/CollectionFramework/assets/137887124/5f796a71-4c78-4b16-a9c9-134068834b66)
+![image](https://github.com/AndriiChipets/char-counter/assets/137887124/95d7c189-43e9-4025-8d19-d528daa62f2b)
+![image](https://github.com/AndriiChipets/char-counter/assets/137887124/690dacca-bf83-42b4-98d9-897562711b6e)
+![image](https://github.com/AndriiChipets/char-counter/assets/137887124/5119721b-6abd-454d-ac3e-932e799ebc8b)
+![image](https://github.com/AndriiChipets/char-counter/assets/137887124/27b8ca1a-c9ac-41c6-b5dd-c35b9cbd5cdf)
